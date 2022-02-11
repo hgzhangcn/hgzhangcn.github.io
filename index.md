@@ -1,6 +1,41 @@
-## Curriculum Vitae
+
+## 张会刚，中科院过程所研究员
+Email:hgzhang@ipe.ac.cn
+## 学术成果：
+在包括Nature和Science子刊、Advanced Materials、Advanced Energy Materials、ACS Catalysis、ACS Nano等权威学术期刊发表发表100篇SCI论文，其中以第一或通讯在Nature Nanotechnology，Nature Communication, Science Advances发表三篇原创论文，合作在Nature Communication发表五篇论文，申请15项中国及美国专利。连续六年承担南京大学《新能源与器件专业》本科教学任务，撰写本科研究生教材一套。
+## 基金申请：
+获得过中组部第五批青年千人计划、基金委面上项目（两项）、江苏省杰出青年基金、江苏双创人才、江苏双创团队、国家重点研发计划纳米专项和材料基因工程关键技术等基金或项目支持。
+## 创新创业：
+因在Nature Nanotechnology上发表文章和两篇相关美国专利，而获得风投基金支持，在美国伊利诺伊州创立了高科技初创企业（Xerion Advanced Battery Corp. https://xerionbattery.com/)，并在其中担任Senior Scientist职位，研发高性能锂离子电池，公司先后获得US Advanced Battery Consortium、NASA和商业风险投资基金两轮支持，目前已经成长为拥有50名科研团队的中型初创企业。
+研究方向：聚焦资源材料化工和能源转化与存储领域重大问题，如功能新材料规模化制备、CO2还原和催化加氢、高比能电池新材料及其规模制备新技术、储能技术的工业放大等。研究对象针对材料的电子-原子-分子结构进行功能化调控，实现颗粒和反应器尺度性能提升，寻求材料和工艺多尺度创新。
+## 教育及工作经历																			
+	1994~1998年，西北大学化工学院，生物化工，本科，导师：范代娣
+	1998~2001年，石油大学攻读精细化工，硕士，导师：俞英
+	2001~2006年，中国科学院过程工程研究所化学工艺，博士，导师：李洪钟，朱庆山
+	2006~2007年，中国科学院过程工程研究所多相复杂系统国家重点实验室，助理研究员
+	2007~2012年，美国伊利诺伊大学香槟分校材料系，博士后，导师：Paul V. Braun
+	2012~2014年，Xerion Advanced Battery Corp公司任Senior Scientist
+	2014~2021年，南京大学，现代工程与应用科学学院，教授
+	2021~至今，中科院过程所多相复杂系统国家重点实验室，研究员
+## 学术兼职																					
+	Journal of Analytical Science and Technology编委
+## 创立或孵化企业							  												
+	Xerion Advanced Battery Corp （U.S.A.）
+## 奖励与荣誉称号																			
+	新华日报优秀青年教师奖
+	陕西省“千人计划”
+	第五批青年千人计划
+	江苏省杰出青年基金
+	江苏省双创人才
+	江苏省双创团队
+	中科院院长优秀奖获得者
+	石油大学（北京）优秀毕业生
+	西北大学兼职教授
+
+
+## Publication
 100. Jinyun Liu*, Liying Zhu, Zihan Shen, Min Zhang, Tianli Han*, and Huigang Zhang*, Novel Doughnutlike Graphene Quantum Dot-Decorated Composites for High-Performance Li–S Batteries Displaying Dual Immobilization Toward Polysulfides, ACS Appl. Energy Mater. 2021, 4, 10, 10998–11003, https://doi.org/10.1021/acsaem.1c01943
-99. Qiya He, Xin Jin, Zhonghua Li, Ziqiang Cai, Jiaming Tian, Junfeng Hui*, and Huigang Zhang*, Regulated Electrodeposition of Na Metal in Monolithic ZIF-Pillared Graphene Anodes, 2022, online, https://doi.org/10.1021/acsami.1c21841
+99. Qiya He, Xin Jin, Zhonghua Li, Ziqiang Cai, Jiaming Tian, Junfeng Hui*, and Huigang Zhang*, Regulated Electrodeposition of Na Metal in Monolithic ZIF-Pillared Graphene Anodes, ACS Appl. Mater。&Interface，2022, online, https://doi.org/10.1021/acsami.1c21841
 98. Shaozhong Chang, Xin Jin, Qiya He, Tongchao Liu, Jiabin Fang, Zihan Shen, Zhonghua Li, Shuo Zhang, Mouad Dahbi, Jones Alami, Khalil Amine*, Ai-Dong Li*, Huigang Zhang*, and Jun Lu*, In Situ Formation of Polycyclic Aromatic Hydrocarbons as an Artificial Hybrid Layer for Lithium Metal Anodes, Nano Letter, 2022, online. https://doi.org/10.1021/acs.nanolett.1c03624
 97. Jianhui Song, Xin Jin, Shuo Zhang, Xingyu Jiang, Jiangfeng Yang, Zi Li, Jian Zhou, Huigang Zhang,* Yuefeng Nie*, Synergistic Role of Eg Filling and Anion−Cation Hybridization in Enhancing the Oxygen Evolution Reaction Activity in Nickelates, ACS Appl. Energy Mater. 2021, XX, XX, https://doi.org/10.1021/acsaem.1c02335
 96. Jinyun Liu*, Yan Zhong, Kai Mu, Tianli Han, Huigang Zhang, and Ting Si*, A Self-Healing Lithium–Sulfur Battery Using Gel-Infilled Microcapsules, ACS Appl. Energy Mater. 2021, 4, 7, 6749–6756. https://doi.org/10.1021/acsaem.1c00857 
@@ -102,7 +137,7 @@ https://doi.org/10.1039/D1NR05294B
 2. Hui Gang Zhang, Qingshan Zhu, Thermodynamic Modeling of KCl-MgCl2 and KCl-FeCl2 Molten Salt Systems using Modified Association Model, Chinese Journal of Rare Earth Metal, 2004, 22, 45-50. (Chinese) 
 1. Hui Gang Zhang, Qingshan Zhu, Glass Composition Prediction by a Combined GA-BFGS Algorithm, Journal of Computer and Applied Chemistry, 2004, 20(3), 335-339. (Chinese)
 
-专利申请																					  
+## 专利申请																					  
 1. Paul V Braun, Hui Gang Zhang, Xindi Yu, Porous Battery Electrode for a Rechargeable Battery and Method of Making the Electrode. US8237538B2
 2. William P King, Paul V Braun, Zhenting Dai, Xindi Yu, Hui Gang Zhang, Three-Dimensional (3D) Porous Device and Method of Making a 3D Porous Device, WO2012/094006 A1.
 3. Hui Gang Zhang, Paul V Braun, Fabrication of Highly Interconnected Microscale Porous Structures, US9517939B2.
@@ -118,7 +153,7 @@ https://doi.org/10.1039/D1NR05294B
 13. 濮军，王建，沈子涵，张会刚，一种可折叠锂离子电池正极的制备新工艺，申请号：201811206200.7.
 14. 沈子涵，张会刚，一种熔融碱电解再生废旧锂离子电池正极材料的方法，申请号：201910101990.0.
 15. 沈子涵，张会刚，一种两极同温同槽电解钴酸锂和金属钴的制备方法,公开号：ZL105958048B。
-撰写书籍章节																		  
+## 撰写书籍章节																		  
 1. Huigang Zhang, Qingshan Zhu, Liquid-Phase Nanosynthesis: From Small Particles to Higher-Order Microstructures, in Nanocrystals: Properties, Preparation and Applications, Ed. Hongqiug Hu, 2009, Nova Publishers, USA
 2. 张会刚，电化学储能材料与原理，科学出版社，2020，北京。
 
