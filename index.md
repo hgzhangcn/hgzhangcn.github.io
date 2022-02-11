@@ -1,3 +1,4 @@
+## Welcome to the Homepage of Prof. Huigang Zhang
 
 ## 张会刚，中科院过程所研究员
 Email:hgzhang@ipe.ac.cn
@@ -14,15 +15,15 @@ Email:hgzhang@ipe.ac.cn
 ## 创立或孵化企业							  												
 	Xerion Advanced Battery Corp （U.S.A.）
 ## 奖励与荣誉称号																			
-	新华日报优秀青年教师奖
-	陕西省“千人计划”
-	第五批青年千人计划
-	江苏省杰出青年基金
-	江苏省双创人才
-	江苏省双创团队
-	中科院院长优秀奖获得者
-	石油大学（北京）优秀毕业生
-	西北大学兼职教授
+	新华日报优秀青年教师奖
+	陕西省“千人计划”
+	第五批青年千人计划
+	江苏省杰出青年基金
+	江苏省双创人才
+	江苏省双创团队
+	中科院院长优秀奖获得者
+	石油大学（北京）优秀毕业生
+	西北大学兼职教授
 
 
 ## Publication
@@ -144,7 +145,8 @@ https://doi.org/10.1039/D1NR05294B
 12. 沈子涵，朱潮，张会刚，一种自支撑的高比能钴酸钒锂负极材料的制备方法，申请号：201811206217.2
 13. 濮军，王建，沈子涵，张会刚，一种可折叠锂离子电池正极的制备新工艺，申请号：201811206200.7.
 14. 沈子涵，张会刚，一种熔融碱电解再生废旧锂离子电池正极材料的方法，申请号：201910101990.0.
-15. 沈子涵，张会刚，一种两极同温同槽电解钴酸锂和金属钴的制备方法,公开号：ZL105958048B。
+15. 沈子涵，张会刚，一种两极同温同槽电解钴酸锂和金属钴的制备方法,公开号：ZL105958048B.
+
 ## 撰写书籍章节																		  
 1. Huigang Zhang, Qingshan Zhu, Liquid-Phase Nanosynthesis: From Small Particles to Higher-Order Microstructures, in Nanocrystals: Properties, Preparation and Applications, Ed. Hongqiug Hu, 2009, Nova Publishers, USA
 2. 张会刚，电化学储能材料与原理，科学出版社，2020，北京。
