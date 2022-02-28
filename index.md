@@ -1,11 +1,11 @@
 ## Welcome to the Homepage of Prof. Huigang Zhang
 
 ## 张会刚，中科院过程所研究员
-Email:hgzhang@ipe.ac.cn
+Email: hgzhang@ipe.ac.cn
 ## 学术成果：
 在包括Nature和Science子刊、Advanced Materials、Advanced Energy Materials、ACS Catalysis、ACS Nano等权威学术期刊发表发表100篇SCI论文，其中以第一或通讯在Nature Nanotechnology，Nature Communication, Science Advances发表三篇原创论文，合作在Nature Communication发表五篇论文，申请15项中国及美国专利。连续六年承担南京大学《新能源与器件专业》本科教学任务，撰写本科研究生教材一套。
 ## 基金申请：
-获得过中组部第五批青年千人计划、基金委面上项目（两项）、江苏省杰出青年基金、江苏双创人才、江苏双创团队、国家重点研发计划纳米专项和材料基因工程关键技术等基金或项目支持。
+获得过中组部第五批QQ计划、基金委面上项目（两项）、江苏省杰出青年基金、江苏双创人才、江苏双创团队、国家重点研发计划纳米专项和材料基因工程关键技术等基金或项目支持。
 ## 创新创业：
 因在Nature Nanotechnology上发表文章和两篇相关美国专利，而获得风投基金支持，在美国伊利诺伊州创立了高科技初创企业（Xerion Advanced Battery Corp. https://xerionbattery.com/)，并在其中担任Senior Scientist职位，研发高性能锂离子电池，公司先后获得US Advanced Battery Consortium、NASA和商业风险投资基金两轮支持，目前已经成长为拥有50名科研团队的中型初创企业。
 研究方向：聚焦资源材料化工和能源转化与存储领域重大问题，如功能新材料规模化制备、CO2还原和催化加氢、高比能电池新材料及其规模制备新技术、储能技术的工业放大等。研究对象针对材料的电子-原子-分子结构进行功能化调控，实现颗粒和反应器尺度性能提升，寻求材料和工艺多尺度创新。
