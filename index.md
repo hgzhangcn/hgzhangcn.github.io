@@ -1,7 +1,7 @@
 ## Welcome to the Homepage of Prof. Huigang Zhang
 
 ## 张会刚，中科院过程所研究员
-Email: hgzhang@ipe.ac.cn
+Email: [link](hgzhang@ipe.ac.cn)
 ## 学术成果：
 在包括Nature和Science子刊、Advanced Materials、Advanced Energy Materials、ACS Catalysis、ACS Nano等权威学术期刊发表发表100篇SCI论文，其中以第一或通讯在Nature Nanotechnology，Nature Communication, Science Advances发表三篇原创论文，合作在Nature Communication发表五篇论文，申请15项中国及美国专利。连续六年承担南京大学《新能源与器件专业》本科教学任务，撰写本科研究生教材一套。
 ## 基金申请：
