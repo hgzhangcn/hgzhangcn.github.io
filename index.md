@@ -3,7 +3,7 @@
 ## 张会刚，中科院过程所研究员
 Email: [link](hgzhang@ipe.ac.cn)
 ## 学术成果：
-在包括Nature和Science子刊、Advanced Materials、Advanced Energy Materials、ACS Catalysis、ACS Nano等权威学术期刊发表发表100篇SCI论文，其中以第一或通讯在Nature Nanotechnology，Nature Communication, Science Advances发表三篇原创论文，合作在Nature Communication发表五篇论文，申请15项中国及美国专利。连续六年承担南京大学《新能源与器件专业》本科教学任务，撰写本科研究生教材一套。
+在包括Nature和Science子刊、Advanced Materials、Advanced Energy Materials、ACS Catalysis、ACS Nano等权威学术期刊发表发表100篇SCI论文，其中以第一或通讯在Nature Nanotechnology，Nature Communication, Science Advances发表三篇原创论文，合作在Nature Communication发表五篇论文，申请15项中国及美国专利。连续六年承担南京大学[《新能源与器件专业》](https://github.com/hgzhangcn/hgzhangcn.github.io/blob/main/chapter%20one.pdf)本科教学任务，撰写本科研究生教材一套。
 ## 基金申请：
 获得过中组部第五批QQ计划、基金委面上项目（两项）、江苏省杰出青年基金、江苏双创人才、江苏双创团队、国家重点研发计划纳米专项和材料基因工程关键技术等基金或项目支持。
 ## 创新创业：
